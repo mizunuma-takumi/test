@@ -1,7 +1,7 @@
 # test
 ## read me 
-**read me**の書き方/
-*read me*
-~~road me~~
->引用
+**read me**の書き方  
+*read me*  
+~~road me~~  
+>引用  
 >[git hub](http://github.co.jp)
