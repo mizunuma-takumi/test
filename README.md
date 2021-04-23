@@ -4,4 +4,6 @@
 *read me*  
 ~~road me~~  
 >引用  
->[git hub](http://github.co.jp)
+>[git hub](http://github.co.jp)  
+  
+(http://google.co.jp)
