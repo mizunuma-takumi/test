@@ -1,6 +1,6 @@
 # test
-## read me //
-**read me**の書き方
+## read me 
+**read me**の書き方/
 *read me*
 ~~road me~~
 >引用
